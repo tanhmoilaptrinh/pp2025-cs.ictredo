@@ -1,14 +1,10 @@
 USTH ICT 2025 Advanced Programming with Python
-=====================================================
 
-Students are expected to:
-* Fork this repository to your github account
-* Push your commits regularly, with **proper** commit messages
+I am not lovw usth 
 
 
 Student Info
-=========================
 
-* Student Name: USTH ICT1 
-* Student ID: Not-Vietnamese
+* Student Name: Tran Thuc Anh
+* Student ID: 23bi14030
 
